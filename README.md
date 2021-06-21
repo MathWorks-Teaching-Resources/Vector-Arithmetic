@@ -46,4 +46,6 @@ The license for this module is available in the [LICENSE.TXT](license.txt) file 
 ## Support ##
 Have any questions or feedback? Contact the <a href="mailto:onlineteaching@mathworks.com">MathWorks online teaching team.</a>
 
+# #
+  
 _Copyright 2021 The MathWorks, Inc._
