@@ -2,7 +2,7 @@
 **Curriculum Module**  
 _Created with R2020b. Compatible with R2020b and later releases._  
 
-<img src="cellPhoneTiltLabels.png" width="500">
+<img src="https://user-images.githubusercontent.com/81383420/122784149-357d8f00-d280-11eb-8af2-f30f9205a11c.png" width="500">
 
 ## Description ##
 This curriculum module contains interactive [live scripts](https://www.mathworks.com/products/matlab/live-editor.html) that teach the fundamental concepts of vectors, such as vector magnitude and addition. These methods are motivated by an application: calculating the orientation of a cell phone using the built-in accelerometer and magnetometer. Throughout the module, students apply the mathematical techniques to computing meaningful values, such as pitch and yaw. These lessons can be used as part of a lecture, as activities in an instructional setting, or as an interactive assignment to be completed outside of class.
@@ -40,6 +40,10 @@ An example of the accelerometer and magnetometer readings used in `vectorArithme
 ## Products ##
 MATLAB&reg;, Symbolic Math Toolbox&trade;
 
-# #
+## License ##
+The license for this module is available in the [LICENSE.TXT](license.txt) file in this GitHub repository.
+
+## Support ##
+Have any questions or feedback? Contact the <a href="mailto:onlineteaching@mathworks.com">MathWorks online teaching team.</a>
 
 _Copyright 2021 The MathWorks, Inc._
