@@ -7,6 +7,8 @@ _Created with R2020b. Compatible with R2020b and later releases._
 ## Description ##
 This curriculum module contains interactive [live scripts](https://www.mathworks.com/products/matlab/live-editor.html) that teach the fundamental concepts of vectors, such as vector magnitude and addition. These methods are motivated by an application: calculating the orientation of a cell phone using the built-in accelerometer and magnetometer. Throughout the module, students apply the mathematical techniques to computing meaningful values, such as pitch and yaw. These lessons can be used as part of a lecture, as activities in an instructional setting, or as an interactive assignment to be completed outside of class.
 
+The instructions inside the live scripts will guide you through the exercises and activities. Get started with each live script by running it one section at a time. To stop running the script or a section midway (for example, when an animation is in progress), use the Stop button in the RUN section of the Live Editor tab in the MATLAB Toolstrip.
+
 ## Details ##
 **`vectorBasics.mlx, vectorBasicsSoln.mlx`**  
 An interactive lesson that teaches the basics of individual vectors, such as vector components, magnitude, and orientation. These concepts are applied to compute the pitch of a cell phone using accelerometer readings.
