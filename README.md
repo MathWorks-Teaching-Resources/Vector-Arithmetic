@@ -1,4 +1,4 @@
-# Vector Arithmetic [![View Vector Arithmetic on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94555-vector-arithmetic)
+# Vector Arithmetic [![View Vector Arithmetic on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94555-vector-arithmetic) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&file=vectorBasics.mlx)
 **Curriculum Module**  
 _Created with R2020b. Compatible with R2020b and later releases._  
 
