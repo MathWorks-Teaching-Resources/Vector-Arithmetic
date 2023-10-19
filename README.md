@@ -68,7 +68,7 @@ MATLAB® and Symbolic Math Toolbox™ are used throughout this module.
 <a name="H_F61733D7"></a>
 # License
 
-The license for this module is available in the [LICENSE.md](https://github.com/MathWorks-Teaching-Resources/Vector-Arithmetic/blob/main/LICENSE.md).
+The license for this module is available in the [LICENSE.md](https://github.com/MathWorks-Teaching-Resources/Vector-Arithmetic/blob/release/LICENSE.md).
 
 # Related Courseware Modules
 |      |      |      |
@@ -86,7 +86,7 @@ Or feel free to explore our other [modular courseware content](https://www.mathw
 <a name="H_0FA5DA18"></a>
 # Contribute 
 
-Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks teaching resources team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Vector-Arithmetic/blob/main/CONTRIBUTING.md) page on GitHub.
+Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks teaching resources team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Vector-Arithmetic/blob/release/CONTRIBUTING.md) page on GitHub.
 
 
 © Copyright 2023 The MathWorks™, Inc
