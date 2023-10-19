@@ -3,7 +3,7 @@
 # <span style="color:rgb(213,80,0)">Vector Arithmetic</span>
 <a name="H_053613DF"></a>
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/XXXXX-VectorArithmetic) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&project=VectorArithmetic.prj)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94555-vector-arithmetic) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&project=VectorArithmetic.prj)
 
 **Curriculum Module**
 
@@ -52,17 +52,17 @@ MATLAB® and Symbolic Math Toolbox™ are used throughout this module.
 <a name="H_E8C62B23"></a>
 # Scripts
 ## [**VectorBasics.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&project=VectorArithmetic.prj&file=VectorBasics.mlx) 
-|      |      |
-| :-- | :-- |
 |  | **In this script, students will...**  |
-| <img src="Images/image_3.png" width="171" alt="image_3.png"> | -  Relate the components of a vector to its visualization in 2- and 3-dimensions  -  Compute the magnitude of a vector in 2- and 3-dimensions  -  Compute the orientation of a vector in 2-dimensions  -  Discuss the meaning of the magnitude of an accelerometer reading  -  Relate the pitch of a cell phone to accelerometer readings  |
-|      |       |
+| :-- | :-- |
+| <img src="Images/image_3.png" width="171" alt="image_3.png"> | <ul><li>  Relate the components of a vector to its visualization in 2- and 3-dimensions  <li>  Compute the magnitude of a vector in 2- and 3-dimensions  <li>  Compute the orientation of a vector in 2-dimensions  <li>  Discuss the meaning of the magnitude of an accelerometer reading  <li>  Relate the pitch of a cell phone to accelerometer readings </ul> |
+|||
 
 ## [**VectorArithmetic.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&project=VectorArithmetic.prj&file=VectorArithmetic.mlx) 
-|      |      |
-| :-- | :-- |
+
+
 |  | **In this script, students will...**  |
-| <img src="Images/image_4.png" width="171" alt="image_4.png"> | -  Add and subtract vectors  -  Compute scalar, dot, and cross products of vectors  -  Relate arithmetic vector operations to visual representations  -  Identify the physical meaning of the results of arithmetic vector operations  -  Apply vector arithmetic to compute the yaw of a cell phone  |
+| :-- | :-- |
+| <img src="Images/image_4.png" width="171" alt="image_4.png"> | <ul><li>  Add and subtract vectors  <li>  Compute scalar, dot, and cross products of vectors  <li>  Relate arithmetic vector operations to visual representations  <li> Identify the physical meaning of the results of arithmetic vector operations  <li>  Apply vector arithmetic to compute the yaw of a cell phone  |
 |      |       |
 
 <a name="H_F61733D7"></a>
@@ -86,7 +86,7 @@ Or feel free to explore our other [modular courseware content](https://www.mathw
 <a name="H_0FA5DA18"></a>
 # Contribute 
 
-Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks teaching resources team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Vector-Arithmetic/blob/release/CONTRIBUTING.md) page on GitHub.
+Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks teaching resources team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Vector-Arithmetic/blob/main/CONTRIBUTING.md) page on GitHub.
 
 
 © Copyright 2023 The MathWorks™, Inc
