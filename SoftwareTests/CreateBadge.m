@@ -34,7 +34,7 @@ classdef CreateBadge < matlab.unittest.TestCase
             ResultFiles = dir("SoftwareTests"+filesep+"TestResults_*");
             for kFiles = 1:size(ResultFiles)
                 Results = readtable(fullfile(ResultFiles(kFiles).folder,ResultFiles(kFiles).name),...
-                    Delimiter=",",TextType="string");
+                    "Delimiter",",","TextType","string");
                 Release = Results.Version(1);
                 Passed = all(Results.Status == "passed");
                 testCase.results(end+1,:) = table(Release,Passed);
