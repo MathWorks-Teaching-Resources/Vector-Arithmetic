@@ -1,4 +1,3 @@
-
 <a name="T_DEF03274"></a>
 # <span style="color:rgb(213,80,0)">Vector Arithmetic</span>
 <a name="H_053613DF"></a>
@@ -18,7 +17,7 @@ This curriculum module contains interactive [MATLAB® live scripts](https://www.
 <a name="H_F00D98E4"></a>
 ## Background
 
-You can use these live scripts as demonstrations in lectures, class activities, or interactive assignments outside class. [<samp>VectorBasics</samp>](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&project=VectorArithmetic.prj&file=VectorBasics.mlx) is an interactive lesson that teaches the basics of individual vectors, such as vector components, vector magnitude, and vector orientation. [<samp>VectorArithmetic</samp>](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&project=VectorArithmetic.prj&file=VectorArithmetic.mlx) is an interactive lesson that teaches vector arithmetic. Vector addition, scalar multiplication, dot product, and cross product are discussed. These methods are motivated by an application: calculating the orientation of a cell phone using the built-in accelerometer and magnetometer. Throughout the module, students apply the mathematical techniques to computing meaningful values, such as pitch and yaw.
+You can use these live scripts as demonstrations in lectures, class activities, or interactive assignments outside class. [<samp>VectorBasics</samp>](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&project=VectorArithmetic.prj&file=Scripts/VectorBasics.mlx) is an interactive lesson that teaches the basics of individual vectors, such as vector components, vector magnitude, and vector orientation. [<samp>VectorArithmetic</samp>](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&project=VectorArithmetic.prj&file=Scripts/VectorArithmetic.mlx) is an interactive lesson that teaches vector arithmetic. Vector addition, scalar multiplication, dot product, and cross product are discussed. These methods are motivated by an application: calculating the orientation of a cell phone using the built-in accelerometer and magnetometer. Throughout the module, students apply the mathematical techniques to computing meaningful values, such as pitch and yaw.
 
 
 The instructions inside the live scripts will guide you through the exercises and activities. Get started with each live script by running it one section at a time. To stop running the script or a section midway (for example, when an animation is in progress), use the <img src="Images/EndIcon.png" width="19" alt="EndIcon.png"> Stop button in the **RUN** section of the **Live Editor** tab in the MATLAB Toolstrip.
@@ -53,13 +52,13 @@ MATLAB® and Symbolic Math Toolbox™ are used throughout this module.
 
 <a name="H_E8C62B23"></a>
 # Scripts
-## [**VectorBasics.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&project=VectorArithmetic.prj&file=VectorBasics.mlx) 
+## [**VectorBasics.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&project=VectorArithmetic.prj&file=Scripts/VectorBasics.mlx) 
 |  | **In this script, students will...**  |
 | :-- | :-- |
 | <img src="Images/image_3.png" width="171" alt="image_3.png"> | <ul><li>  Relate the components of a vector to its visualization in 2- and 3-dimensions  <li>  Compute the magnitude of a vector in 2- and 3-dimensions  <li>  Compute the orientation of a vector in 2-dimensions  <li>  Discuss the meaning of the magnitude of an accelerometer reading  <li>  Relate the pitch of a cell phone to accelerometer readings </ul> |
 |||
 
-## [**VectorArithmetic.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&project=VectorArithmetic.prj&file=VectorArithmetic.mlx) 
+## [**VectorArithmetic.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&project=VectorArithmetic.prj&file=Scripts/VectorArithmetic.mlx) 
 
 
 |  | **In this script, students will...**  |
@@ -76,8 +75,8 @@ The license for this module is available in the [LICENSE.md](https://github.com/
 |      |      |      |
 | :-- | :-- | :-- |
 | **Courseware Module** | **Sample Content** | **Available on:**  |
-| [**Matrix Methods of Linear Algebra**](https://www.mathworks.com/matlabcentral/fileexchange/94730-matrix-methods-of-linear-algebra) | <img src="Images/image_5.png" width="171" alt="image_5.png"> |  [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/94730-matrix-methods-of-linear-algebra)  [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj) [GitHub](https://github.com/MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra)  |
-| [**Applied Linear Algebra**](https://www.mathworks.com/matlabcentral/fileexchange/136364-applied-linear-algebra) | <img src="Images/image_8.png" width="171" alt="image_8.png"> |  [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/136364-applied-linear-algebra)   [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj) [GitHub](https://github.com/MathWorks-Teaching-Resources/Applied-Linear-Algebra)  |
+| [**Matrix Methods of Linear Algebra**](https://www.mathworks.com/matlabcentral/fileexchange/94730-matrix-methods-of-linear-algebra) | <img src="Images/image_5.png" width="171" alt="image_5.png"> |  [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/94730-matrix-methods-of-linear-algebra)  [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=README.mlx) [GitHub](https://github.com/MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra)  |
+| [**Applied Linear Algebra**](https://www.mathworks.com/matlabcentral/fileexchange/136364-applied-linear-algebra) | <img src="Images/image_8.png" width="171" alt="image_8.png"> |  [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/136364-applied-linear-algebra)   [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj&file=README.mlx) [GitHub](https://github.com/MathWorks-Teaching-Resources/Applied-Linear-Algebra)  |
 |      |      |       |
 
 
