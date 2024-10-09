@@ -8,11 +8,10 @@ function PlotVector3DAxis(axlims)
     b = ub-a;
     buff = b*0.1;
     c = ub+buff/2;
-    ca = [0.3 0.3 0.3 0.6];
     axis([a-buff,c+buff,a-buff,c+buff,a-buff,c+buff])
-    quiver3(a,0,0,b,0,0,"autoscale","off","maxheadsize",1/10,"linewidth",1,"color",ca)
-    quiver3(0,a,0,0,b,0,"autoscale","off","maxheadsize",1/10,"linewidth",1,"color",ca)
-    quiver3(0,0,a,0,0,b,"autoscale","off","maxheadsize",1/10,"linewidth",1,"color",ca)
+    quiver3(a,0,0,b,0,0,"autoscale","off","maxheadsize",1/10,"linewidth",1,SeriesIndex=1)
+    quiver3(0,a,0,0,b,0,"autoscale","off","maxheadsize",1/10,"linewidth",1,SeriesIndex=1)
+    quiver3(0,0,a,0,0,b,"autoscale","off","maxheadsize",1/10,"linewidth",1,SeriesIndex=1)
     text(c,0,0,"$x$", "Interpreter","latex","fontsize",fs)
     text(0,c,0,"$y$", "Interpreter","latex","fontsize",fs)
     text(0,0,c,"$z$", "Interpreter","latex","fontsize",fs)
