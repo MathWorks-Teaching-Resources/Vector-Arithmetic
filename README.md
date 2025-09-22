@@ -1,6 +1,7 @@
 <a name="T_DEF03274"></a>
 # <span style="color:rgb(213,80,0)">Vector Arithmetic</span>
 <a name="H_053613DF"></a>
+Learn the concepts of vector arithmetic with applications to the pitch and yaw of a cell phone.
 
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94555-vector-arithmetic) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&project=VectorArithmetic.prj&file=README.mlx)
 
@@ -24,7 +25,7 @@ The instructions inside the live scripts will guide you through the exercises an
 
 ## Contact Us
 
-Solutions are available upon instructor request. Contact the [MathWorks teaching resources team](mailto:onlineteaching@mathworks.com) if you would like to request solutions, provide feedback, or if you have a question.
+Contact the [MathWorks Educator Content Development Team](mailto:onlineteaching@mathworks.com) if you would like to request assistance, provide feedback, or if you have a question.
 
 <a name="H_30BC7141"></a>
 ## Prerequisites
