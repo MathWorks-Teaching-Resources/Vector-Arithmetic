@@ -5,7 +5,7 @@ Learn the concepts of vector arithmetic with applications to the pitch and yaw o
 
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94555-vector-arithmetic) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Vector-Arithmetic&project=VectorArithmetic.prj&file=README.mlx)
 
-![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://MathWorks-Teaching-Resources.github.io/Vector-Arithmetic/TestedWith.json)
+[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Vector-Arithmetic/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Vector-Arithmetic)
 
 **Curriculum Module**
 
