@@ -51,3 +51,5 @@ Utilities/ProjectSettings.mat
 public/
 .buildtool/
 ci_utilities/
+**/ProjectSettings.mat
+.playwright-mcp/
